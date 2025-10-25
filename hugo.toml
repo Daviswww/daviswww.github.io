@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = "hugo-PaperMod"
+
+[params]
+title = "Hugo Profile"
+description = "Text about my cool site"
+
+[[menu.main]]
+name = "Blog posts"
+weight = 1
+url = "posts/"
