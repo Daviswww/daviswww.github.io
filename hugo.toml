@@ -7,6 +7,7 @@ theme = "hugo-PaperMod"
 [params]
 title = "Hugo Profile"
 description = "Text about my cool site"
+defaultTheme = "light"
 
 [[menu.main]]
 name = "Blog posts"
