@@ -1,13 +1,24 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Davis Blog'
 
 theme = "hugo-PaperMod"
 
 [params]
-title = "Hugo Profile"
-description = "Text about my cool site"
+title = "Davis Blog"
+description = "When I'm not engrossed in intricate code, I heed the call of my artistic soul to craft sublime creations."
 defaultTheme = "light"
+
+[params.assets]
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-16x16.png"
+favicon32x32 = "/favicon-32x32.png"
+apple_touch_icon = "/apple-touch-icon.png"
+safari_pinned_tab = "/safari-pinned-tab.svg"
+theme_color = "#2e2e33"
+msapplication_TileColor = "#2e2e33"
+disableScrollBarStyle = false
+disableFingerprinting = false
 
 [[menu.main]]
 name = "Blog posts"
