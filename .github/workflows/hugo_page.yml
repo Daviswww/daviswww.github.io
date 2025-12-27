@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-deploy:
@@ -26,3 +26,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           publish_dir: ./public
+          publish_branch: gh-pages
