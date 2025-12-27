@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - master
+permissions:
+  contents: write
 
 jobs:
   build-deploy:
@@ -13,11 +15,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: true
+          persist-credentials: true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.116.0' # 根據需要調整
+          hugo-version: '0.152.2' # 與本機 hugo 版本對齊
 
       - name: Build
         run: hugo --minify
