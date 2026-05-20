@@ -1,2 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Davis Blog</title><link>https://daviswww.github.io/posts/</link><description>Recent content in Posts on Davis Blog</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Sat, 06 Dec 2025 17:42:02 +0800</lastBuildDate><atom:link href="https://daviswww.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Chrolog 的誕生</title><link>https://daviswww.github.io/posts/chrolog-birth/</link><pubDate>Sat, 06 Dec 2025 17:42:02 +0800</pubDate><guid>https://daviswww.github.io/posts/chrolog-birth/</guid><description>&lt;h2 id="前言"&gt;前言&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Davis Blog</title><link>https://daviswww.github.io/posts/</link><description>Recent content in Posts on Davis Blog</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 15:43:28 +0800</lastBuildDate><atom:link href="https://daviswww.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>虎山</title><link>https://daviswww.github.io/posts/hu-shan/</link><pubDate>Fri, 01 May 2026 15:43:28 +0800</pubDate><guid>https://daviswww.github.io/posts/hu-shan/</guid><description>&lt;h2 id="路線"&gt;路線&lt;/h2&gt;
+&lt;p&gt;泰安溫泉停車場→（1K,15分鐘）→水雲吊橋→（0.2K,5分鐘）→水雲瀑布叉路→（2.1K,80分鐘）→溪谷叉路→（1K,80分鐘）→加里山叉路→（0.2K,5分鐘）→虎山→（3.3K,100分鐘）→水雲瀑布叉路→（1.2K,15分鐘）→泰安溫泉停車場&lt;/p&gt;
+&lt;h2 id="筆記"&gt;筆記&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;水雲吊橋是這條路線的亮點之一，走在吊橋上可以欣賞到溪谷的美景，非常推薦。&lt;/li&gt;
+&lt;li&gt;這條路線總共有 1 ~ 8 個路牌，1 是樓梯，2 ~ 7 相對是緩坡，第 8 個路牌後是最難的部分爬升 400 左右非常累，下山時也要特別小心。&lt;/li&gt;
+&lt;li&gt;虎山的視野非常好，可以看到整個泰安地區的風景，尤其是在天氣好的時候，不過當天起了大霧，什麼都看不到。&lt;/li&gt;
+&lt;li&gt;這次總共花了 6 個小時左右完成這條路線，比健行筆記預估的 5 個小時多了 1 小時。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="三角點"&gt;三角點&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="alt text" loading="lazy" src="https://daviswww.github.io/posts/hu-shan/IMG_3944.jpg"&gt;&lt;/p&gt;
+&lt;h2 id="水雲吊橋"&gt;水雲吊橋&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="alt text" loading="lazy" src="https://daviswww.github.io/posts/hu-shan/IMG_3950.jpg"&gt;&lt;/p&gt;</description></item><item><title>Chrolog 的誕生</title><link>https://daviswww.github.io/posts/chrolog-birth/</link><pubDate>Sat, 06 Dec 2025 17:42:02 +0800</pubDate><guid>https://daviswww.github.io/posts/chrolog-birth/</guid><description>&lt;h2 id="前言"&gt;前言&lt;/h2&gt;
 &lt;p&gt;這是我一年多來開發 Chrolog 過程的記錄， Chrolog 從概念到上線的技術歷程與設計決策。&lt;/p&gt;</description></item></channel></rss>
